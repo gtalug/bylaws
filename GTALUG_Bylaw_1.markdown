@@ -1,19 +1,18 @@
-B¥-LAV~' NO. 1
-being the General B.~-lax~ or
-GTA LINITX USERS GROUP ORGANIZATION t hereinafter referred to as the "Corporation")
-INTERPRETATION
-1.
-Detinilions In this By-lav,. unless the context otherv~ise specit]es or requires:
-(a)
-"Act" means the ( "OtTxn'alions .-lcl. R.S.O. 1990, chap. C. 38 as from time to time amended and every statute that may be substituted therefor and. in the case of such substitution, an,, references in the By-Laws of the Corporation to provisions of the Act shall be read as references to the substituted provisions therefor in the new statute or statutes:
-(b)
-"By-la,~s" means any Bv-lav,-of the Corporation from time to time in force and effect:
-(c)
-"Letters Patent" means the Letters Patent and an',' supplemcntar3 letters patent of the Corporation:
-(d)
-"Regulations" means the regulations made under the Act as from time to time amended and every regulation that may be substituted theretbr and. in the case of such substitution, any references in the By-laws of the Corporation to provisions of the regulations shall be read as references to the substituted provisions therefor in the new regulations;
-(e)
-"Special Resolution" means a resolution passed by the directors and confirmed with or without variation by at least two-thirds (2/3) of the votes cast at a general meeting of the members of the Corporation duly called for that purpose or at an annual meeting, or, in lieu of such confirmation, by the consent in writing of all of the members entitled to vote at such meeting.
+# BY-LAW NO. 1
+# being the General By-law of
+# GTA LINITX USERS GROUP ORGANIZATION
+# (hereinafter referred to as the "Corporation")
+
+## INTERPRETATION
+
+### 1. **Detinilions** In this By-law, unless the context otherwise specifies or requires:
+
+1. "Act" means the _Corporations Act_, R.S.O. 1990, chap. C. 38 as from time to time amended and every statute that may be substituted therefor and, in the case of such substitution, any references in the By-Laws of the Corporation to provisions of the Act shall be read as references to the substituted provisions therefor in the new statute or statutes;
+1. "By-law" means any By-law of the Corporation from time to time in force and effect;
+1. "Letters Patent" means the Letters Patent and any supplementary letters patent of the Corporation;
+1. "Regulations" means the regulations made under the Act as from time to time amended and every regulation that may be substituted therefor and, in the case of such substitution, any references in the By-laws of the Corporation to provisions of the regulations shall be read as references to the substituted provisions therefor in the new regulations;
+1. "Special Resolution" means a resolution passed by the directors and confirmed with or without variation by at least two-thirds (2/3) of the votes cast at a general meeting of the members of the Corporation duly called for that purpose or at an annual meeting, or, in lieu of such confirmation, by the consent in writing of all of the members entitled to vote at such meeting.
+
 2.     Interpretation: This By-law shall be, unless the context otherwise requires, construed and interpreted in accordance with the following:
 (a)
 all terms which are contained in the By-laws of the Corporation and which are defined in the Act or the Regulations made thereunder shall have the meanings given to such terms in the Act or such Regulations;
