@@ -13,17 +13,18 @@
 1. "Regulations" means the regulations made under the Act as from time to time amended and every regulation that may be substituted therefor and, in the case of such substitution, any references in the By-laws of the Corporation to provisions of the regulations shall be read as references to the substituted provisions therefor in the new regulations;
 1. "Special Resolution" means a resolution passed by the directors and confirmed with or without variation by at least two-thirds (2/3) of the votes cast at a general meeting of the members of the Corporation duly called for that purpose or at an annual meeting, or, in lieu of such confirmation, by the consent in writing of all of the members entitled to vote at such meeting.
 
-2.     Interpretation: This By-law shall be, unless the context otherwise requires, construed and interpreted in accordance with the following:
-(a)
-all terms which are contained in the By-laws of the Corporation and which are defined in the Act or the Regulations made thereunder shall have the meanings given to such terms in the Act or such Regulations;
-(b)
-words importing the singular number only shall include the plural and vice versa; and the word "person" shall include bodies corporate, corporations,
-companies, partnerships, syndicates, trusts and any number or aggregate of persons;
-(c)
-the headings used in the By-laws are inserted for reference purposes only and are not to be considered or taken into account in construing the terms or provisions thereof or to be deemed in any way to clarify, modify or explain the effect of any such terms or provisions.
-HEAD OFFICE
-3.     Head Office: The head office of the Corporation shall be in the City of Toronto in the Province of Ontario (subject to change by Special Resolution) and at such place within the municipality in Ontario where the head office is from time to time situate as the directors of the Corporation may from time to time by resolution fix.
-SEAL
+### 2. **Interpretation**: This By-law shall be, unless the context otherwise requires, construed and interpreted in accordance with the following:
+
+1. all terms which are contained in the By-laws of the Corporation and which are defined in the Act or the Regulations made thereunder shall have the meanings given to such terms in the Act or such Regulations;
+1. words importing the singular number only shall include the plural and vice versa; and the word "person" shall include bodies corporate, corporations, companies, partnerships, syndicates, trusts and any number or aggregate of persons;
+1. the headings used in the By-laws are inserted for reference purposes only and are not to be considered or taken into account in construing the terms or provisions thereof or to be deemed in any way to clarify, modify or explain the effect of any such terms or provisions.
+
+## HEAD OFFICE
+
+### 3. **Head Office**: The head office of the Corporation shall be in the City of Toronto in the Province of Ontario (subject to change by Special Resolution) and at such place within the municipality in Ontario where the head office is from time to time situate as the directors of the Corporation may from time to time by resolution fix.
+
+### SEAL
+
 4.    Seal: The seal, an impression of which is stamped in the margin hereof, shall be the seal of the Corporation.
 DIRECTORS
 5.    Duties and Number: The affairs of the Corporation shall be managed by a board of directors who may be known and referred to as directors, trustees or governors. The board of directors shall consist of the number of directors set out in the Letters Patent or such other number of directors as may be determined from time to time by Special Resolution.
