@@ -22,7 +22,7 @@ The Corporation may establish membership classes consisting of:
 
 1. Full Member, any person who has registered with GTALUG and who possesses a GTALUG membership card.
 1. Student Member, a person who has the same rights and privileges as a Full Member with reduced dues.
-1. Corporate Sponsorship Member, any business or corporation supplying assistance to TLUG will automatically receive a Corporate Sponsorship Membership Card. This is non-voting membership.
+1. Corporate Sponsorship Member, any business or corporation supplying assistance to GTALUG will automatically receive a Corporate Sponsorship Membership Card. This is non-voting membership.
 1. Associate Members, any pea'son who regularly attends GTALUG events, but who has not registered with GTALUG and does not possess a membership card. This is a non-voting membership.
 1. Honorary Member, a membership presented, through a vote by the Board of Directors, to individuals or corporations who are not members of the Corporation, and have contributed substantial assistance to the Corporation. This is a non-voting membership.
 1. Lifetime Member, a perpetual membership presented to any voting class member, through a vote by the Board of Directors, as recognition for substantial contributions to the Corporation. This membership has all the rights and privileges of a Full Member.
