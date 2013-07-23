@@ -1,6 +1,4 @@
-# Resolution of
-# the Board of Directors of
-# GTA LINUX USERS GROUP ORGANIZATION
+# Resolution of the Board of Directors of _GTA LINUX USERS GROUP ORGANIZATION_
 
 
 ## WHEREAS:
