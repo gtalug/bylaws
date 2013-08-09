@@ -1,6 +1,6 @@
-## Interpreation
+## Interpretation
 
-1. **Detinilions** In this By-law, unless the context otherwise specifies or requires:
+1. **Definitions** In this By-law, unless the context otherwise specifies or requires:
 	
 	1. **Act** means the _Corporations Act_, R.S.O. 1990, chap. C. 38 as from time to time amended and every statute that may be substituted therefor and, in the case of such substitution, any references in the By-Laws of the Corporation to provisions of the Act shall be read as references to the substituted provisions therefor in the new statute or statutes;
 	1. **By-law** means any By-law of the Corporation from time to time in force and effect;
