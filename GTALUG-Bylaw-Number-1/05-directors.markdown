@@ -10,7 +10,7 @@
 
 9. **Vacancies**: The office of a director shall automatically be vacated:
 
-	1. if the director does not within ten (1 O) days after election or appointment as a director become a member, or ceases to be a member of the Corporation;
+	1. if the director does not within ten (1O) days after election or appointment as a director become a member, or ceases to be a member of the Corporation;
 	
 	1. if the director becomes bankrupt or suspends payment of debts generally or compounds with creditors or makes an authorized assignment or Is declared insolvent;
 	
