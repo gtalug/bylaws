@@ -9,7 +9,7 @@
 45. Waiver of Notice. A member and any other person entitled to attend a meeting of members may in any manner waive notice of a meeting of members and attendance of any such person at a meeting of members shall constitute a waiver of notice of the meeting
 except where such person attends a meeting for the express purposes of objecting to the transaction of any business on the grounds that the meeting is not lawfully called.
 
-46.    Error or Omission in Giving Notice. No error or omission in giving notice of any annual or special meeting or any adjourned meeting of the members of the Corporation shall invalidate any resolution passed or any proceedings taken at any meeting of members.
+46. Error or Omission in Giving Notice. No error or omission in giving notice of any annual or special meeting or any adjourned meeting of the members of the Corporation shall invalidate any resolution passed or any proceedings taken at any meeting of members.
 
 47. Quorum. A quorum at any meeting of the members (unless a greater number of members and/or proxies are required to be present by the Act, Letters Patent or By-law) shall be persons present being not less than two in number and being or representing by proxy not less than two members. No business shall be transacted at any meeting unless the requisite quorum be present at the time of the transaction of such business. Ira quorum is not present at the time appointed for a meeting of members or within such reasonable time thereafter as the members present may determine, the persons present and entitled to vote may adjourn the meeting to a fixed time and place but may not transact any other business and the provisions of paragraph 56 with regard to notice shall apply to such adjournment.
 
