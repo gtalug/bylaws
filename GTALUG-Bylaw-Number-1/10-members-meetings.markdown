@@ -4,7 +4,7 @@
 
 43. **General Meetings**. Other meetings of the members may be convened by order of the Chairperson of the board, the President ifa director or a Vice-President who is a director and member or by the board of directors at any date and time and at any place within Ontario or, in the absence of such determination, at the place where the head office of the Corporation is located. The board of directors shall call a general meeting of members on written requisition of not less than one-tenth of the members.
 
-44. **Notice**. Subject to Section 133(2) of the Act, ten (I0) days' written notice shall be given in the manner specified in paragraph 56 to each voting member of any annual or special general meeting of members. Notice of any meeting where special business will be transacted should contain sufficient information to permit the member to form a reasoned judgment on the decision to be taken.
+44. **Notice**. Subject to Section 133(2) of the Act, ten (10) days' written notice shall be given in the manner specified in paragraph 56 to each voting member of any annual or special general meeting of members. Notice of any meeting where special business will be transacted should contain sufficient information to permit the member to form a reasoned judgment on the decision to be taken.
 
 45. **Waiver of Notice**. A member and any other person entitled to attend a meeting of members may in any manner waive notice of a meeting of members and attendance of any such person at a meeting of members shall constitute a waiver of notice of the meeting
 except where such person attends a meeting for the express purposes of objecting to the transaction of any business on the grounds that the meeting is not lawfully called.
